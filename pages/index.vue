@@ -9,13 +9,13 @@
         @compra="compra">
        </manager>
        <footer class="pie">
-         <span>&copy; 2024 Relojes Prestige. Todos los derechos reservados.</span>
+         <span>&copy; 2024 Bagify. Todos los derechos reservados.</span>
 <br>
-<span>Explora nuestra colección de relojes de lujo, deportivos y clásicos. Perfectos para cualquier ocasión, combinando precisión y estilo.</span>
+<span>Descubre nuestra colección de bolsos de moda, elegantes y funcionales. Diseñados para cada estilo y ocasión, combinando calidad y tendencia.</span>
 <br>
-<span>Contacto: soporte@relojesprestige.com | Tel: +1 800 987 6543</span>
+<span>Contacto: soporte@bagify.com | Tel: +1 800 123 4567</span>
 <br>
-<span>Síguenos en redes sociales: Facebook, Instagram, Twitter</span>
+<span>Síguenos en redes sociales: Facebook, Instagram, Pinterest</span>
 
        </footer>
    </div>
@@ -30,65 +30,60 @@ export default {
          comprasrealizadas : [],
          productos : [
            {
-               imagen : 'https://down-co.img.susercontent.com/file/sg-11134301-7rdyr-lybzu3r5yybn43@resize_w450_nl.webp',
-               precio :  13.300,
-               titulo : ' Reloj Electrónico',
-               descripcion : 'Nueva Moda Led Reloj Electrónico Estudiante Reloj Electrónico Hombres Mujeres Accesorios Reloj'
+               imagen : 'https://down-co.img.susercontent.com/file/4fed68df9deb9807d113e45497f28a72.webp',
+               precio : 28.434,
+               titulo : ' Mini bolsos de la eslinga',
+               descripcion : ' las mujeres Mini bolsos de la eslinga de la cadena bolso de hombro bolsos bolsos de mensajero'
            },
             {
-               imagen : 'https://down-co.img.susercontent.com/file/sg-11134201-7rdx5-lykba5cdk4cnc9@resize_w450_nl.webp',
-               precio : 14.369,
-               titulo : 'Reloj De Moda Cuarzo',
-               descripcion : 'Reloj De Moda Cuarzo Con Correa De Malla De Luz Nocturna Ultrafina Y Minimalista',
+               imagen : 'https://down-co.img.susercontent.com/file/afd92fbd9a3a405afd94e672d30a29df.webp',
+               precio : 46.800,
+               titulo : 'mujer moda casual',
+               descripcion : 'gran capacidad retro letra impresión cremallera bolsos',
 
             } ,
             {
-               imagen : 'https://down-co.img.susercontent.com/file/cn-11134207-7r98o-luli4zbn38hs9b@resize_w450_nl.webp',
-               precio : 20.987,
-               titulo : 'Reloj Paw Patrol',
-               descripcion : 'Socute Paw Patrol Proyección Reloj Chase Marshall Rubble Skye Cubierta Abatible',
+               imagen : 'https://down-co.img.susercontent.com/file/e4190d3b4194c99f9cde9c90d6b169d6.webp',
+               precio : 57.000,
+               titulo : ' bolsa de Nylon ',
+               descripcion : 'Nueva bolsa de Nylon de lona para mujer Crossbody de un solo hombro ligero multicapa Casual bolso de las señoras',
 
             } ,
             {
-               imagen : 'https://down-co.img.susercontent.com/file/sg-11134301-7rdvy-lxfnf66q3s5kcc@resize_w450_nl.webp',
-               precio : 14.255,
-               titulo : 'Reloj Malaquita Verde Diamante',
-               descripcion : 'Moda Versión Coreana Popular Rectangular Señoras Cinturón Reloj Malaquita Verde Diamante Mujer Estudiante Reloj De Cuarzo',
+               imagen : 'https://down-co.img.susercontent.com/file/f571e88587f8e3672f7b8f0c0bb481d3.webp',
+               precio : 25.412,
+               titulo : 'Bolso de viaje ',
+               descripcion : 'plegable impermeable bolso de viaje maleta bolsa de almacenamiento de gran capacidad bolsas de hombro',
 
             } ,
             {
-               imagen : 'https://down-co.img.susercontent.com/file/72d7949da51d4ef087d260526e61ddcb@resize_w450_nl.webp',
-               precio : 26.399,
-               titulo : 'Reloj de cuarzo/ minimalista',
-               descripcion : 'Los hombres de la moda Simple de agua fantasma relojes/alta calidad de acero inoxidable correa de malla',
+               imagen : 'https://down-co.img.susercontent.com/file/8a5f2b9d91ec8367899452460a09487a.webp',
+               precio : 83.999,
+               titulo : 'Bolso de hombro bandolera',
+               descripcion : '2021 nuevo bolso de hombro bandolera bolso de moda de las mujeres coreano nuevo pequeño bolso',
 
             } ,
             {
-               imagen : 'https://down-co.img.susercontent.com/file/sg-11134301-7rdyx-lxdqnkhaxgnz49@resize_w450_nl.webp',
-               precio : 24.551,
-               titulo : 'Reloj Electrónico Influencer ',
-               descripcion : 'Reloj Multifuncional Al Aire Libre Retro Luminoso Deportes Reloj Electrónico Influencer Adulto Estudiante Reloj Hombres Gran Dial',
+               imagen : 'https://down-co.img.susercontent.com/file/5b5817b7738509ad0763ac5ceb157eef.webp',
+               precio : 146.509,
+               titulo : 'Mochila escolar  ',
+               descripcion : 'Mochila escolar de Color degradado para niña, morral escolar de princesa arcoíris, bolso de gran capacidad para fin de semana',
 
             } ,
             {
-               imagen : 'https://down-co.img.susercontent.com/file/717f13f9ab740672a1eb3012016b81b4@resize_w450_nl.webp',
-               precio : 12.000,
-               titulo : 'Reloj De Cuarzo Con Banda De Acero ',
-               descripcion : 'Inoxidable Multi Color Opcional A La Moda Para Mujer reloj',
+               imagen : 'https://down-co.img.susercontent.com/file/6401aba68b69572d5e64311d0467e152.webp',
+               precio : 72.456,
+               titulo : 'Mochila Coreana ',
+               descripcion : 'Coreana 2021 nueva marea salvaje sin costuras De cuero suave impermeable bolso De escuela Mochila De viaje De gran',
 
             } ,
             {
-               imagen : 'https://down-co.img.susercontent.com/file/sg-11134301-7rdx4-m00b1bb9u0on76@resize_w450_nl.webp',
-               precio : 13.656,
-               titulo : 'Reloj De Las Mujeres Nueva Moda',
-               descripcion : 'Simple pulsera correa',
+               imagen : 'https://down-co.img.susercontent.com/file/sg-11134201-7qvfs-ljr4t5cfzk7mc8.webp',
+               precio :84.114,
+               titulo : 'Bolso de mensajero ',
+               descripcion : 'Bolso de mensajero trapstar bolso bandolera de hombro para hombres y mujeres',
 
-            } ,
-            {
-               imagen : 'https://down-co.img.susercontent.com/file/sg-11134201-7qvd5-lhuq0nu5se3p0f@resize_w450_nl.webp',
-               precio : 28.129,
-               titulo : 'Reloj electrónico cuadrado ',
-               descripcion : 'mejorado Y1 reloj electrónico LED con botón deportivo para estudiantes y niños|',
+            
 
             } ,
 
